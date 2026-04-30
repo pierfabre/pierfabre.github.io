@@ -24,8 +24,14 @@ latest_posts:
 ---
 
 <p>
-  I'm a French robotics control engineer working at <a href="https://www.wandercraft.eu/">Wandercraft</a> on the first self-balancing personal exoskeleton. 
-  In the past I've also interned at <a href="https://www.safran-group.com/companies/safran-electronics-defense">Safran</a> as a control engineer intern and at <a href="https://www.laas.fr/en/">LAAS-CNRS</a> as a control theory research assistant.
-  I studied at <a href="https://www.isae-supaero.fr/en">ISAE-Supaéro</a> where I had the opportunity of perform a <a href="/projects/mdrs">Mars Analog mission</a> during 3 weeks in the Utah Desert!
-  I like to solve problems whether it's solving boulder problems in a gym at Arkose or outdoor in the Fontainebleau forest, solving chess puzzles on chess.com or even solving engineering problems for fun projects like the <a href="/projects/furuta">furuta pendulum</a> we built with <a href="https://armandpl.com/">Armand du Parc</a>. 
+  I'm a French robotics control engineer currently working as a research engineer at Inria Paris in the <a href="https://www.di.ens.fr/willow">Willow team</a>, under the supervision of <a href="https://jcarpent.github.io/">Justin Carpentier</a>. I will soon start a PhD in Robotics between the Willow team and the <a href="https://auctus-team.gitlabpages.inria.fr/">Auctus team</a> in Bordeaux. I will be supervised by Justin Carpentier, Vincent Padois and Sébastien Kleff.
+</p>
+<p>
+  In the past, I worked at <a href="https://www.wandercraft.eu/">Wandercraft</a> on the first self-balancing personal exoskeleton and on the Calvin humanoid. I have also interned at <a href="https://www.safran-group.com/companies/safran-electronics-defense">Safran</a> as a control engineer intern and at <a href="https://www.laas.fr/en/">LAAS-CNRS</a> as a control theory research assistant.
+</p>
+<p>
+  I graduated from <a href="https://www.isae-supaero.fr/en">ISAE-Supaéro</a>, where I had the opportunity to take part in a <a href="/projects/mdrs">Mars Analog mission</a> for three weeks in the Utah desert.
+</p>
+<p>
+  I like to solve problems whether it's solving boulder problems in a gym at Arkose or outdoor in the Fontainebleau forest, solving chess puzzles on chess.com or even solving engineering problems for fun projects like the <a href="/projects/furuta">furuta pendulum</a> we built with <a href="https://armandpl.com/">Armand du Parc</a>.
 </p>
