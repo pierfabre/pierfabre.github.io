@@ -10,21 +10,21 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-news",
-          title: "news",
+          title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -415,7 +415,7 @@ ninja.data = [{
           title: 'Paper accepted to the Frontier of Optimization for Robotics workshop at ICRA 2026!...',
           description: "",
           section: "News",},{id: "projects-furuta",
-          title: 'furuta',
+          title: 'Furuta',
           description: "Build and swing up a furuta pendulum",
           section: "Projects",handler: () => {
               window.location.href = "/projects/furuta/";
