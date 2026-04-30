@@ -1,6 +1,6 @@
 ---
 layout: page
-title: furuta
+title: Furuta
 description: Build and swing up a furuta pendulum
 img: assets/img/pendulum.jpg
 importance: 1
