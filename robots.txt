@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://pierfabre.github.io/sitemap.xml
