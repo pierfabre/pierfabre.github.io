@@ -1,11 +1,15 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-15'
 papers:
+  79pRujAAAAAJ:2osOgNQ5qMEC:
+    citations: 2
+    title: Frictional Contact-Implicit Inverse Dynamics
+    year: '2025'
+  79pRujAAAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: Frictional Contact-Implicit Inverse Dynamics via Complementarity-Constrained Optimization
+    year: '2026'
   79pRujAAAAAJ:u-x6o8ySG0sC:
     citations: 2
     title: Reference-Free Sampling-Based Model Predictive Control
-    year: '2025'
-  79pRujAAAAAJ:u5HHmVD_uO8C:
-    citations: 5
-    title: Contact-implicit inverse dynamics
     year: '2025'
