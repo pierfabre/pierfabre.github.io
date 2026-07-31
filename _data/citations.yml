@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-07-31'
 papers:
   79pRujAAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -10,6 +10,6 @@ papers:
     title: Frictional Contact-Implicit Inverse Dynamics via Complementarity-Constrained Optimization
     year: '2026'
   79pRujAAAAAJ:u-x6o8ySG0sC:
-    citations: 2
+    citations: 4
     title: Reference-Free Sampling-Based Model Predictive Control
     year: '2025'
